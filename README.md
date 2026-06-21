@@ -117,9 +117,6 @@ Soft-delete a card.
 6. Add environment variable: `MONGODB_URI` = your Atlas connection string
 7. Deploy
 
-Your base URL will be something like `https://your-app.onrender.com` — submit this exactly with no paths or versioning.
-
----
 
 ## Project Structure
 
